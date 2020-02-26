@@ -1,4 +1,4 @@
-# Differential_Fairness
+# Differential Fairness
 Code implementing differential fairness (DF) metric with demonstratins on the Adult 1994 U.S. census income data from the UCI repository
 
 ## Reference Papers
