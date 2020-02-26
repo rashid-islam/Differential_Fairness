@@ -16,7 +16,7 @@ The code is tested on windows and linux operating systems. It should work on any
 * differential_fairness.py: Python code implements function for DF using empirical counts with Dirichlet smoothing
 * demo_all_groups.py: Demo for measurement of DF on all intersectional groups in Adult dataset
 * demo_binary_groups.py: Demo for measurement of DF on intersectional groups in Adult dataset while each protected attribute (i.e. race) can only have binary values (i.e. white and non-white)
-* Finally, the 'data' folder contains the Adult dataset
+* 'data' folder contains the Adult dataset
 
 ## Author
 
@@ -25,7 +25,7 @@ The code is tested on windows and linux operating systems. It should work on any
 
 ## License
 
-The code to implement function for differential fairness is licensed under Apache License Version 2.0.
+The code to implement differential fairness metric is licensed under Apache License Version 2.0.
 
 ## Acknowledgments
 
