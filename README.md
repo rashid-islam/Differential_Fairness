@@ -1,5 +1,5 @@
 # Differential Fairness
-Code implementing differential fairness (DF) metric with demonstratins on the Adult 1994 U.S. census income data from the UCI repository
+Code implementing differential fairness (DF) metric with demonstrations on the Adult 1994 U.S. census income data from the UCI repository
 
 ## Reference Papers
 1. J. R. Foulds, R. Islam, K. Keya, and S. Pan. Differential fairness. NeurIPS 2019 Workshop on Machine Learning with Guarantees, 2019. [PDF](http://jfoulds.informationsystems.umbc.edu/papers/2019/Foulds%20(2019)%20-%20DifferentialFairness_NeurIPS_MLWG.pdf).
