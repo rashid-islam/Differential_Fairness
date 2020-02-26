@@ -11,7 +11,27 @@ Code implementing differential fairness (DF) metric with demonstratins on the Ad
 
 The code is tested on windows and linux operating systems. It should work on any other platform.
 
+## Differential fairness (DF) measurement
+
+* differential_fairness.py: Python code implements function for DF using empirical counts with Dirichlet smoothing
+* demo_all_groups.py: Demo for measurement of DF on all intersectional groups in Adult dataset
+* demo_binary_groups.py: Demo for measurement of DF on intersectional groups in Adult dataset while each protected attribute (i.e. race) can only have binary values (i.e. white and non-white)
+* Finally, the 'data' folder contains the Adult dataset
+
+## Author
+
+* Rashidul Islam (email: islam.rashidul@umbc.edu)
+* Kamrun Naher Keya (email: kkeya1@umbc.edu)
+
+## License
+
+The code to implement function for differential fairness is licensed under Apache License Version 2.0.
+
 ## Acknowledgments
 
 Many part of the data pre-processing was based on the "[Towards fairness in machine learning with adversarial networks](https://github.com/equialgo/fairness-in-ml)" blog post.
+
+##  Remarks
+Code for calculating our differential fairness metric is now available in the AI Fairness 360 toolkit from IBM Research! 
+[AI Fairness 360 Open Source Toolkit](http://aif360.mybluemix.net/).
 
