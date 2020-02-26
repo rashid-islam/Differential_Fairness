@@ -10,3 +10,8 @@ Code implementing differential fairness (DF) metric with demonstratins on the Ad
 * Python
 
 The code is tested on windows and linux operating systems. It should work on any other platform.
+
+## Acknowledgments
+
+Many part of the data pre-processing was based on the "[Towards fairness in machine learning with adversarial networks](https://github.com/equialgo/fairness-in-ml)" blog post.
+
